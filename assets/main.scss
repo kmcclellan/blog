@@ -1,0 +1,9 @@
+---
+---
+
+@import "minima";
+
+.footer-license {
+  @include relative-font-size(0.625);
+  color: $grey-color;
+}

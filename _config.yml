@@ -1,0 +1,17 @@
+# Blog settings
+title: It's not pretty.
+description: A blog about things of practical interest to me, like career, dating, and mental health. I owe the title to Bukowski.
+author: Kyle McClellan
+email: kylemcclellan3@gmail.com
+github_username: kmcclellan
+rss: RSS
+url: https://kmcclellan.github.io
+baseurl: /blog
+google_analytics: UA-167980572-1
+
+# Build settings
+theme: minima
+plugins:
+- jekyll-feed
+markdown: kramdown
+future: true
