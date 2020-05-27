@@ -1,0 +1,40 @@
+<svg viewBox="0 0 600 400">
+  {%- if include.title -%}
+    <title>{{ include.title }}</title>
+  {%- endif -%}
+  <g stroke="#ccc" stroke-width="2">
+    <line x1="0%" x2="100%" y1="50%" y2="50%"></line>
+    <line x1="50%" x2="50%" y1="0%" y2="100%"></line>
+  </g>
+  <g font-size="12">
+    {%- if include.x1 -%}
+      <text x="0%" y="50%" dy="18">{{ include.x1 }}</text>
+    {%- endif -%}
+    {%- if include.y1 -%}
+      <text x="50%" y="100%" dx="6" dy="-6">{{ include.y1 }}</text>
+    {%- endif -%}
+    <g text-anchor="end">
+      {%- if include.x2 -%}
+        <text x="100%" y="50%" dy="-6">{{ include.x2 }}</text>
+      {%- endif -%}
+      {%- if include.y2 -%}
+        <text x="50%" y="0%" dx="-6" dy="18">{{ include.y2 }}</text>
+      {%- endif -%}
+    </g>
+  </g>
+  <g font-size="16" dy="-8" text-anchor="middle"
+    font-weight="bold" style="text-transform:uppercase">
+    {%- if include.q1 -%}
+      <text x="75%" y="25%">{{ include.q1 }}</text>
+    {%- endif -%}
+    {%- if include.q2 -%}
+      <text x="25%" y="25%">{{ include.q2 }}</text>
+    {%- endif -%}
+    {%- if include.q3 -%}
+      <text x="25%" y="75%">{{ include.q3 }}</text>
+    {%- endif -%}
+    {%- if include.q4 -%}
+      <text x="75%" y="75%">{{ include.q4 }}</text>
+    {%- endif -%}
+  </g>
+</svg>
