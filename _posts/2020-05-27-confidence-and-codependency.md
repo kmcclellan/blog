@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Confidence and Codependency
+tags: dating mental-health ethics
 ---
 
 ## An inquiry into values
