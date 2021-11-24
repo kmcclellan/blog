@@ -30,7 +30,7 @@ What I find interesting about assertiveness is that it's defined primarily in te
 
 Assertiveness, so conceived, aligns well with modern consequentialist ethics as a whole, where ethical action is seen as a matter of engineering particular outcomes. We can contrast it with the framework supplied by virtue ethics. When Aristotle describes virtue as a "mean between extremes," he has something different in mind than the precarious balance represented by assertiveness. The fact that courage is the virtue governing fear means that there is an appropriate level of fear, and that this metric hangs upon the nature of fear and human beings, objectively. It does not require a soldier to have predictive knowledge of warfare and whether the battle she finds herself in will be a victory or defeat.
 
-Virtues are internal dispositions that naturally promote human flourishing. It is a feature of virtues that they don't depend upon other people or what happens to their possessor (thus was Socrates put to death for being the wisest in Athens). Is there a virtue could pertain to social interactions and the kind of pressure to apply to get what you want? Would it look anything like assertiveness or confidence?
+Virtues are internal dispositions that naturally promote human flourishing. It is a feature of virtues that they don't depend upon other people or what happens to their possessor (thus was Socrates put to death for being the wisest in Athens). Is there a virtue that could pertain to social interactions and the kind of pressure to apply to get what you want? Would it look anything like assertiveness or confidence?
 
 ## Confidence and arrogance
 
